@@ -1,5 +1,5 @@
 # Bus Schedule System
------------------------------------------------------------------------
+
 The Bus Schedule System is a standalone application designed to manage and display bus schedules. It provides distinct interfaces for passengers, drivers, and conductors, allowing each user type to access and manage relevant information efficiently.
 
 ## Technologies Used
